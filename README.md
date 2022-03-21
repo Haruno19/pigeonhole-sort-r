@@ -1,4 +1,4 @@
-# pigeonhole-sort-r
+# Pigeonhole Sort rev
 C++ implementation of the Pigeonhole sorting algorithm using plain arrays.
 
 The primary array is randomly generated, both array size and maximum values can be adjusted via global variables. The auxiliary array is allocated dynamically.  
