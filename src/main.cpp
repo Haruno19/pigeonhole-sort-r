@@ -1,5 +1,5 @@
 /*
-    Pigeonhole Sortig Algorithm revision with plain arrays
+    Pigeonhole Sorting Algorithm revision with plain arrays
 
     21.03.2022 | g++ -std=c++11 | https://github.com/Haruno19
 */
